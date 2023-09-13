@@ -1,0 +1,12 @@
+.show-card{
+    background-color: #e74343;
+    width: 50%;
+    height: 60px;
+    margin: 0px auto;
+    display: block;
+}
+.title-card{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+.btn-show{
+    cursor: pointer;
+    color: rgb(106, 4, 106);
+}
+.btn-show :active{
+    border: 1px solid transparent;
+}
